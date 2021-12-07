@@ -1,2 +1,2 @@
-# YetGen-Python-E-itimi
+# YetGen-Python-Egitimi
 YetGen Python Eğitimi ödevler, kaynaklar,denemeler, çalışmalar, atölyeler
